@@ -1,0 +1,10 @@
+1) Si potrebbe fare in modo che, una volta raggiunto il punteggio
+per l'aggiuducazione di un set, il numero dei set giocati(vinti)
+venga aggiornato automaticamente.
+Questo ha come "effetto collaterale" che se l'aggiuducazione deve
+essere revocata (per qualunque motivo) si dovrebbe poter tornare
+indietro facilemente.
+Non riesco a immaginare un modo "a prova di errore" per fare tutto ciò.
+
+2) Rivedere tutte le animazioni in modo da renderle più verosimili.
+

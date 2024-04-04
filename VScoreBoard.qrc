@@ -4,7 +4,6 @@
         <file>Logo.ico</file>
         <file>Logo_SSD_UniMe.png</file>
         <file>Logo_UniMe.png</file>
-        <file>key.wav</file>
         <file>buttonIcons/scad Models/Arrow.scad</file>
         <file>buttonIcons/scad Models/BasketField.scad</file>
         <file>buttonIcons/scad Models/ExchangeBasketField.scad</file>
@@ -37,7 +36,6 @@
         <file>ball0.png</file>
         <file>ball1.png</file>
         <file>Logo_SSD.png</file>
-        <file>Rete.png</file>
         <file>Logo_UniMe2.png</file>
         <file>buttonIcons/ExchangeVolleyField.png</file>
     </qresource>
